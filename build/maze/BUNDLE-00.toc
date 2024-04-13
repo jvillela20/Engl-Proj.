@@ -1,0 +1,1 @@
+([('maze', '/Users/jesusvillela/Desktop/Engl Proj./dist/maze', 'EXECUTABLE')],)
